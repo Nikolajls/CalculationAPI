@@ -1,0 +1,9 @@
+C:\Users\Nikolaj\source\repos\API\MyServices\bin\Debug\netcoreapp3.1\MyServices.deps.json
+C:\Users\Nikolaj\source\repos\API\MyServices\bin\Debug\netcoreapp3.1\MyServices.dll
+C:\Users\Nikolaj\source\repos\API\MyServices\bin\Debug\netcoreapp3.1\MyServices.pdb
+C:\Users\Nikolaj\source\repos\API\MyServices\obj\Debug\netcoreapp3.1\MyServices.csprojAssemblyReference.cache
+C:\Users\Nikolaj\source\repos\API\MyServices\obj\Debug\netcoreapp3.1\MyServices.AssemblyInfoInputs.cache
+C:\Users\Nikolaj\source\repos\API\MyServices\obj\Debug\netcoreapp3.1\MyServices.AssemblyInfo.cs
+C:\Users\Nikolaj\source\repos\API\MyServices\obj\Debug\netcoreapp3.1\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\Nikolaj\source\repos\API\MyServices\obj\Debug\netcoreapp3.1\MyServices.dll
+C:\Users\Nikolaj\source\repos\API\MyServices\obj\Debug\netcoreapp3.1\MyServices.pdb

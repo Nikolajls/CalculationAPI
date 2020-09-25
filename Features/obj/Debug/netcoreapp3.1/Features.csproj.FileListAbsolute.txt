@@ -1,0 +1,12 @@
+C:\Users\Nikolaj\source\repos\API\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+C:\Users\Nikolaj\source\repos\API\Features\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\Nikolaj\source\repos\API\Features\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\Nikolaj\source\repos\API\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+C:\Users\Nikolaj\source\repos\API\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+C:\Users\Nikolaj\source\repos\API\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+C:\Users\Nikolaj\source\repos\API\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+C:\Users\Nikolaj\source\repos\API\Features\obj\Debug\netcoreapp3.1\Features.csproj.CopyComplete
+C:\Users\Nikolaj\source\repos\API\Features\obj\Debug\netcoreapp3.1\Features.dll
+C:\Users\Nikolaj\source\repos\API\Features\obj\Debug\netcoreapp3.1\Features.pdb
+C:\Users\Nikolaj\source\repos\API\Features\bin\Debug\netcoreapp3.1\MyServices.dll
+C:\Users\Nikolaj\source\repos\API\Features\bin\Debug\netcoreapp3.1\MyServices.pdb
